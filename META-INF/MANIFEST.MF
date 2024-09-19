@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Created-By: Maven Jar Plugin 3.2.0
+Build-Jdk-Spec: 11
+Class-Path: javafx-controls-17.0.6.jar javafx-controls-17.0.6-mac-aarch6
+ 4.jar javafx-fxml-17.0.6.jar javafx-fxml-17.0.6-mac-aarch64.jar javafx-
+ graphics-17.0.6.jar javafx-graphics-17.0.6-mac-aarch64.jar javafx-base-
+ 17.0.6.jar javafx-base-17.0.6-mac-aarch64.jar jakarta.mail-2.0.1.jar ja
+ karta.activation-2.0.1.jar commons-net-3.8.0.jar jspeedtest-1.32.1.jar 
+ http-endec-1.04.jar jackson-databind-2.13.4.jar jackson-annotations-2.1
+ 3.4.jar jackson-core-2.13.4.jar httpclient-4.5.14.jar commons-logging-1
+ .2.jar commons-codec-1.11.jar httpcore-4.4.16.jar httpmime-4.5.13.jar
+Main-Class: com.speedio.speedio_v1.SpeedMonitorApp
+
